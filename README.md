@@ -1,3 +1,8 @@
 OFM
 
-The file fastmarchingwithmersort contain the new implementation.
+The file OFM.py contain the new implementation.
+We need some python libraries:
+.Numpy
+.Matplotlib
+.Pylab
+.Cv2
