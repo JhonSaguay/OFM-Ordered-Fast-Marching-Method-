@@ -160,12 +160,25 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 For running this project you need extract all files on a folder, and running the next code line.
-  ```sh
+
+* FMM
+    ```sh
   python3 fastmarchingserachminimal.py
+  ```
+* FMM using fibonnaci heap
+```sh
+  python3 fastmarchingfibonnaciheap.py
+  ```
+* FMM using binary heap
+```sh
+  python3 fastmarchingbinaryheap.py
+  ```
+* OFM
+```sh
+  python3 OFM.py
   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- Examples and results -->
@@ -199,21 +212,4 @@ Project Link: [https://github.com/JhonSaguay/OFM-Ordered-Fast-Marching-Method-](
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
