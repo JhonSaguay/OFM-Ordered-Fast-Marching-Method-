@@ -30,9 +30,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Ordered Fast Marching Method (OFM)</h3>
 
@@ -60,13 +57,11 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#results">Results</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -76,8 +71,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many variants of FMM that try to optimize the computational time, applying differents changes on the FMM algorithm. However, these variants are not efficient in all scenarios.
 
@@ -174,18 +167,20 @@ This is an example of how to list things you need to use the software and how to
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+For running this project you need extract all files on a folder, and running the next code line.
+  ```sh
+  python3 fastmarchingserachminimal.py
+  ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- Examples and results -->
-## Examples and results
+## Results
 Example using a maze image.
 ![alt text](https://github.com/JhonSaguay/OFM-Ordered-Fast-Marching-Method-/blob/main/laberinto3.jpg?raw=true)
-![alt text](https://github.com/JhonSaguay/OFM-Ordered-Fast-Marching-Method-/blob/main/route_6_laberinto2.png?raw=true)
+![alt text](https://github.com/JhonSaguay/OFM-Ordered-Fast-Marching-Method-/blob/main/route6_laberinto2.png?raw=true)
 
 Example using a real map of San Diego city.
 
